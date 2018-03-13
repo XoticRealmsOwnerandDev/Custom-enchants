@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/nobody5050/Custom-enchants
+branches:
+- master
+projects:
+  Custom-enchants:
+    path: ""
+...
